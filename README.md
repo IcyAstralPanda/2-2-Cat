@@ -4,6 +4,6 @@
 # Text02.java
 Fixed errors
 
--Missing semicolon
--space after println
--currly braces mismatch
+- Missing semicolon
+- space after println
+- currly braces mismatch
