@@ -1,0 +1,17 @@
+public class Text03 {
+    public static void drawLegs(){
+        System.out.println("     ||     ||      ");
+        System.out.println("     ||     ||      ");
+        System.out.println("    (||)   (||)     ");
+    }
+
+    public static void drawHead(){
+        Text01.main(new String[0]);
+
+    }
+
+    public static void main(String[] args) {
+        drawHead();
+        drawLegs();
+    }    
+}
